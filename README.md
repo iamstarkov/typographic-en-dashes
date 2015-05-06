@@ -26,17 +26,9 @@ var endashes = require('typographic-en-dashes');
 endashes(`Kurt Cobain (1967-1994)`); // Kurt Cobain (1967–1994)
 ```
 
-
-## Real world examples
-
-Check complex usage with real world examples in [typography playground][playground].
-
-[playground]: https://github.com/matmuchrapna/typographic-playground
-
-
 ## License
 
-MIT © [Vladimir Starkov](http://vstarkov.com/)
+MIT © [Vladimir Starkov](https://iamstarkov.com/)
 
 [rtfm]: http://practicaltypography.com/hyphens-and-dashes.html
 [habits]: http://practicaltypography.com/typewriter-habits.html
@@ -44,14 +36,14 @@ MIT © [Vladimir Starkov](http://vstarkov.com/)
 [npm-url]: https://npmjs.org/package/typographic-en-dashes
 [npm-image]: http://img.shields.io/npm/v/typographic-en-dashes.svg
 
-[travis-url]: https://travis-ci.org/matmuchrapna/typographic-en-dashes
-[travis-image]: http://img.shields.io/travis/matmuchrapna/typographic-en-dashes.svg
+[travis-url]: https://travis-ci.org/iamstarkov/typographic-en-dashes
+[travis-image]: http://img.shields.io/travis/iamstarkov/typographic-en-dashes.svg
 
-[coveralls-url]: https://coveralls.io/r/matmuchrapna/typographic-en-dashes
-[coveralls-image]: http://img.shields.io/coveralls/matmuchrapna/typographic-en-dashes.svg
+[coveralls-url]: https://coveralls.io/r/iamstarkov/typographic-en-dashes
+[coveralls-image]: http://img.shields.io/coveralls/iamstarkov/typographic-en-dashes.svg
 
-[depstat-url]: https://david-dm.org/matmuchrapna/typographic-en-dashes
-[depstat-image]: https://david-dm.org/matmuchrapna/typographic-en-dashes.svg
+[depstat-url]: https://david-dm.org/iamstarkov/typographic-en-dashes
+[depstat-image]: https://david-dm.org/iamstarkov/typographic-en-dashes.svg
 
-[depstat-dev-url]: https://david-dm.org/matmuchrapna/typographic-en-dashes
-[depstat-dev-image]: https://david-dm.org/matmuchrapna/typographic-en-dashes/dev-status.svg
+[depstat-dev-url]: https://david-dm.org/iamstarkov/typographic-en-dashes
+[depstat-dev-image]: https://david-dm.org/iamstarkov/typographic-en-dashes/dev-status.svg
